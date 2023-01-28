@@ -7,3 +7,5 @@
 * [Open Government data of Thailand -  TOURISM RECEIPTS FROM INTERNATIONAL TOURIST ARRIVALS_2017](https://data.go.th/en/dataset/tourism-receipts-2017)
 * [Open Government data of Thailand -  TOURISM RECEIPTS FROM INTERNATIONAL TOURIST ARRIVALS_2018](https://data.go.th/en/dataset/tourism-receipts-2018)
 * [Open Government data of Thailand -  TOURISM RECEIPTS FROM INTERNATIONAL TOURIST ARRIVALS_2019](https://data.go.th/en/dataset/tourism-receipts-2019)
+* [WorldData - Thailand Historial Inflation Rates](https://www.worlddata.info/asia/thailand/inflation-rates.php)
+* [WorldData - Vietnam Historial Inflation Rates](https://www.worlddata.info/asia/vietnam/inflation-rates.php)
