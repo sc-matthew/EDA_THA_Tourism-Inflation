@@ -14,6 +14,8 @@ However, there is concern about the increasing cost of living and rising prices 
 
 Assuming that the number of tourists and overall revenue are the most important factors, the hypothesis is that the increase in foreign tourists has led to an increase in Thailand's inflation rate.
 
+[Click here to access Python Notebook File](https://github.com/sc-matthew/Pandas_Project/blob/main/TH_Tourism_Inflation.ipynb)
+
 ---
 ## References:
 * [Ministry of Tourism and Sports -  International Tourist Arrivals to Thailand 2013](https://www.mots.go.th/news/category/470)
@@ -22,8 +24,7 @@ Assuming that the number of tourists and overall revenue are the most important 
 * [Ministry of Tourism and Sports -  International Tourist Arrivals to Thailand 2016](https://www.mots.go.th/news/category/435)
 * [Ministry of Tourism and Sports -  International Tourist Arrivals to Thailand 2017](https://www.mots.go.th/news/category/414)
 * [Ministry of Tourism and Sports -  International Tourist Arrivals to Thailand 2018](https://www.mots.go.th/news/category/497)
-* [Ministry of Tourism and Sports -  International Tourist Arrivals to Thailand 2014](https://www.mots.go.th/news/category/521)
-
+* [Ministry of Tourism and Sports -  International Tourist Arrivals to Thailand 2019](https://www.mots.go.th/news/category/521)
 * [WorldBank - Thailand Statistical Overview Data](https://data.worldbank.org/country/thailand)
 * [WorldData - Thailand Historial Inflation Rates](https://www.worlddata.info/asia/thailand/inflation-rates.php)
 * [WorldData - Vietnam Historial Inflation Rates](https://www.worlddata.info/asia/vietnam/inflation-rates.php)
