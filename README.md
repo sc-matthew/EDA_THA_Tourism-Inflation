@@ -15,6 +15,23 @@ However, there is concern about the increasing cost of living and rising prices 
 Assuming that the number of tourists and overall revenue are the most important factors, the hypothesis is that the increase in foreign tourists has led to an increase in Thailand's inflation rate.
 
 [Click here to access Python Notebook File](https://github.com/sc-matthew/Pandas_Project/blob/main/TH_Tourism_Inflation.ipynb)
+---
+## Packages used in the Notebook
+
+```sh
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pandas as pd
+import urllib.request
+from PIL import Image
+
+import ipywidgets as widgets
+from ipywidgets import interact, interactive, fixed, interact_manual
+import matplotlib.ticker as ticker
+
+import requests
+from io import BytesIO
+```
 
 ---
 ## References:
