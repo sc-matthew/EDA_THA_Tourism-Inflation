@@ -1,4 +1,4 @@
-# การท่องเที่ยวสำคัญอย่างไร แล้วทำไมเราถึงจะต้องฟื้นฟู? 🐼🎋
+# Does booming in Thailand's tourism lead to increasing inflation? 🇹🇭✈️
 ## This project is brought to you by 
 * [Suramate Chokchaisuwan](https://github.com/sc-matthew)
 * [Dhawalrat Leelapratak](https://github.com/Dhawalratlee)
