@@ -4,6 +4,14 @@
 * [Dhawalrat Leelapratak](https://github.com/Dhawalratlee)
 * Paris Jongphichetvorakul
 ---
+
+The tourism industry is a major contributor to Thailand's economy, generating significant revenue and directly impacting the livelihoods of many communities. In recent years, tourism has grown rapidly and has contributed significantly to the country's economic development, as well as the well-being of its population. This can be observed through the news in newspapers and social media, indicating that Thailand has a large number of international tourists, with the country ranking among the top 10 countries in the world in terms of international tourist arrivals (according to the World Tourism Organization).
+
+However, there is concern about the increasing cost of living and rising prices of goods in many areas, as seen through the higher prices of products in convenience stores like 7-11 that are distributed throughout the country. Therefore, the question arises whether the influx of foreign tourists to Thailand has contributed to the country's inflation rate.
+
+Assuming that the number of tourists and overall revenue are the most important factors, the hypothesis is that the increase in foreign tourists has led to an increase in Thailand's inflation rate.
+
+---
 ## References:
 * [Ministry of Tourism and Sports -  International Tourist Arrivals to Thailand 2013](https://www.mots.go.th/news/category/470)
 * [Ministry of Tourism and Sports -  International Tourist Arrivals to Thailand 2014](https://www.mots.go.th/news/category/476)
